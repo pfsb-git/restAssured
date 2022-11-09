@@ -1,0 +1,179 @@
+Request method:	GET
+IRequest URI:	https://demointranet.preving.com/gef-backend/homologations
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+#				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 401 
+%Date: Wed, 09 Nov 2022 08:48:09 GMT
+@Server: Apache/2.4.39 (Unix) OpenSSL/1.0.1e-fips mod_jk/1.2.42
+KVary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+!X-Content-Type-Options: nosniff
+!X-XSS-Protection: 1; mode=block
+?Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+ Content-Type: application/json
+Via: 1.1 google
+ Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+
+{
+     "timestamp": 1667983689931,
+    "status": 401,
+    "error": "Unauthorized",
+G    "message": "Intenta acceder a un recurso al cual no tiene acceso",
+)    "path": "/gef-backend/homologations"
+}
+Request method:	GET
+WRequest URI:	https://demointranet.preving.com/gef-backend/classrooms/filter?name=PS01
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+#				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 401 
+%Date: Wed, 09 Nov 2022 08:48:09 GMT
+@Server: Apache/2.4.39 (Unix) OpenSSL/1.0.1e-fips mod_jk/1.2.42
+KVary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+!X-Content-Type-Options: nosniff
+!X-XSS-Protection: 1; mode=block
+?Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+ Content-Type: application/json
+Via: 1.1 google
+ Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+
+{
+     "timestamp": 1667983690348,
+    "status": 401,
+    "error": "Unauthorized",
+G    "message": "Intenta acceder a un recurso al cual no tiene acceso",
+-    "path": "/gef-backend/classrooms/filter"
+}
+Request method:	GET
+CRequest URI:	https://demointranet.preving.com/gef-backend/regions
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+#				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 401 
+%Date: Wed, 09 Nov 2022 08:48:09 GMT
+@Server: Apache/2.4.39 (Unix) OpenSSL/1.0.1e-fips mod_jk/1.2.42
+KVary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+!X-Content-Type-Options: nosniff
+!X-XSS-Protection: 1; mode=block
+?Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+ Content-Type: application/json
+Via: 1.1 google
+ Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+
+{
+     "timestamp": 1667983690606,
+    "status": 401,
+    "error": "Unauthorized",
+G    "message": "Intenta acceder a un recurso al cual no tiene acceso",
+#    "path": "/gef-backend/regions"
+}
+Request method:	PUT
+JRequest URI:	https://demointranet.preving.com/gef-backend/classrooms/383
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+#				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "PS04",
+    "id": "383"
+}
+HTTP/1.1 401 
+%Date: Wed, 09 Nov 2022 08:48:09 GMT
+@Server: Apache/2.4.39 (Unix) OpenSSL/1.0.1e-fips mod_jk/1.2.42
+KVary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+!X-Content-Type-Options: nosniff
+!X-XSS-Protection: 1; mode=block
+?Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+ Content-Type: application/json
+Via: 1.1 google
+ Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+
+{
+     "timestamp": 1667983690877,
+    "status": 401,
+    "error": "Unauthorized",
+G    "message": "Intenta acceder a un recurso al cual no tiene acceso",
+*    "path": "/gef-backend/classrooms/383"
+}
+Request method:	GET
+FRequest URI:	https://demointranet.preving.com/gef-backend/classrooms
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+#				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 401 
+%Date: Wed, 09 Nov 2022 08:48:10 GMT
+@Server: Apache/2.4.39 (Unix) OpenSSL/1.0.1e-fips mod_jk/1.2.42
+KVary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+!X-Content-Type-Options: nosniff
+!X-XSS-Protection: 1; mode=block
+?Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+ Content-Type: application/json
+Via: 1.1 google
+ Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+
+{
+     "timestamp": 1667983691134,
+    "status": 401,
+    "error": "Unauthorized",
+G    "message": "Intenta acceder a un recurso al cual no tiene acceso",
+&    "path": "/gef-backend/classrooms"
+}
